@@ -37,15 +37,20 @@ I want to type out code as fast as Ben Shapiro spreads disinformation.
 
 ### Find Me On
 <img align="center" alt="coronel08" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>  [Website]
-
-
-<img align="center" alt="ig" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [Instagram]
-
-<img align="center" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Youtube]
+<img align="center" alt="ig" width="22px" 
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [Instagram]
+<img align="center" alt="youtube" width="22px" 
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Youtube]
 
 
 ### Languages and Tools
-
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="HTML5" width="26px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="center" alt="nodejs" width="26px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 
 
