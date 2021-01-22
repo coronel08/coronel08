@@ -58,8 +58,8 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Youtube
 <br><br>
 
 <!-- Icons for languages section  -->
+#### Languages and Frameworks
 <section>
-    <b>Languages and Frameworks</b> <br>
     <img align="left" alt="HTML5" width="26px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     <img align="left" alt="JavaScript" width="26px" 
@@ -68,18 +68,20 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Youtube
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
     <img align="left" alt="bash" width="26px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
-    <img align="center" alt="django" width="26px" 
+    <img align="left" alt="django" width="26px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-    <img align="center" alt="react" width="26px" 
+    <img align="left" alt="react" width="26px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-    <img align="center" alt="flask" width="26px" 
+    <img align="left" alt="flask" width="26px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-    <img align="center" alt="nginx" width="26px"
+    <img align="left" alt="nginx" width="26px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+    <br>
 </section>
+<br>
 
+#### Tools
 <section>
-    <b>Tools</b> <br>
     <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     <img align="left" alt="docker" width="26px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
