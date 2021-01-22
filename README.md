@@ -71,7 +71,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Youtube
 </section>
 
 <section align="center">
-    <b>Frameworks</b> <br>
+    <b>Frameworks</b>
     <img align="center" alt="django" width="26px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
     <img align="center" alt="react" width="26px" 
@@ -83,7 +83,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Youtube
 </section>
 
 <section align="right">
-    <b>Tools</b> <br>
+    <b>Tools</b> 
     <img align="right" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     <img align="right" alt="docker" width="26px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
