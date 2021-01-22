@@ -59,7 +59,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Youtube
 
 <!-- Icons for languages section  -->
 <section>
-    <b>Languages</b> <br>
+    <b>Languages and Frameworks</b> <br>
     <img align="left" alt="HTML5" width="26px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     <img align="left" alt="JavaScript" width="26px" 
@@ -68,10 +68,6 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Youtube
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
     <img align="left" alt="bash" width="26px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
-</section>
-
-<section align="center">
-    <b>Frameworks</b>
     <img align="center" alt="django" width="26px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
     <img align="center" alt="react" width="26px" 
@@ -82,18 +78,18 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Youtube
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
 </section>
 
-<section align="right">
-    <b>Tools</b> 
-    <img align="right" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img align="right" alt="docker" width="26px" 
+<section>
+    <b>Tools</b> <br>
+    <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    <img align="left" alt="docker" width="26px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-    <img align="right" alt="git" width="26px" 
+    <img align="left" alt="git" width="26px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-    <img align="right" alt="github" width="26px" 
+    <img align="left" alt="github" width="26px" 
     src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-    <img align="right" alt="cli" width="26px"
+    <img align="left" alt="cli" width="26px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-    <img align="right" alt="photoshop" width="26px"
+    <img align="left" alt="photoshop" width="26px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 </section>
 
@@ -107,7 +103,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 -->
 
 <!-- Stats card -->
-<br>
+<br><br>
 <img align="left" alt="coronel08 Stats" 
 src="https://github-readme-stats.vercel.app/api?username=coronel08&show-icons=true&hide_border=true&hide=contribs,issues,pr&count_private=true" />
 
