@@ -3,7 +3,7 @@
 <img align="right" alt="languages"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=coronel08" />
 
-I want to type out code as fast as Ben Shapiro spreads disinformation.
+I want to type out code as fast as Facebook spreads disinformation.
 <br><br>
 
 - 🔭 I’m currently working IT as an independent contractor for KFC and some small businesses.
