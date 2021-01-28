@@ -3,6 +3,7 @@
 <img align="right" alt="languages"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=coronel08" />
 
+
 I want to type out code as fast as Facebook spreads disinformation.
 <br><br>
 
@@ -103,6 +104,12 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="nodejs" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+-->
+
+<!-- Badges and Icons resources
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://www.shields.io/
+https://simpleicons.org/
 -->
 
 <!-- Stats card -->
