@@ -9,8 +9,8 @@ I want to type out code as fast as Facebook spreads disinformation.
 
 - 🔭 I’m currently working IT as an independent contractor for KFC and some small businesses.
 - 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on writting clean code using best practices 😊. 
-- 🤔 I’m looking for help with finding a mentor/study buddy.
+- 👯 Let's collaborate on writting code. 
+- 🤔 Learning to code for maintainability, readability, performance, compatibility 😊.
 - 💬 Ask me about 90s emo revival or tech
 - ⚡ Fun fact: I self host a 16tb media server/homelab
 - 2021: Typescript, Graphql, Kubernetes, algorithms
