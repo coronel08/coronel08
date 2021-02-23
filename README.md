@@ -14,6 +14,8 @@ I want to type out code as fast as Facebook spreads disinformation.
 - 💬 Ask me about 90s emo revival or tech
 - ⚡ Fun fact: I self host a 16tb media server/homelab
 - 2021: Typescript, Graphql, Kubernetes, algorithms
+<!-- - 🚫  against Google / Facebook 🚫 because they control the network where we receive info. All while combining an addictive model and a surveillance regime. -->
+
 <br><br>
 
 ## About Me 😄
