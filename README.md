@@ -7,8 +7,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=coronel08" /
 I want to type out code as fast as Facebook spreads disinformation.
 <br><br>
 
-- 🔭 I’m currently looking for employment.
-- 🌱 I’m currently learning Full Stack Development.
+- 🔭 I’m currently looking for employment, but have been freelancing IT/Web Dev work
+- 🌱 I’m currently a Full Stack Development with an ever growing list of technology and tools.
 - 👯 Let's collaborate on writting code. 
 - 🤔 Learning to code for maintainability, readability, performance, compatibility 😊.
 - 💬 Ask me about 90s emo revival or tech
