@@ -6,9 +6,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=coronel08" /
 
 I want to type out code as fast as Facebook spreads disinformation.
 <br><br>
-
-- 🔭 I’m currently looking for employment, but have been freelancing IT/Web Dev work
-- 🌱 I’m currently a Full Stack Development with an ever growing list of technology and tools.
+- 🌎 Experienced as a Cloud Developer (AWS Cloud Practitioner & AWS Cloud Developer certified)
+- 🌱 I’m currently a Full Stack Developer focusing on Front End development, with an ever growing list of technology and tools.
 - 👯 Let's collaborate on writting code. 
 - 🤔 Learning to code for maintainability, readability, performance, compatibility 😊.
 - 💬 Ask me about 90s emo revival or tech
